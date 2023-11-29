@@ -1,0 +1,5 @@
+{
+    "files.associations": {
+        "packet-v2gtp.h": "c"
+    }
+}

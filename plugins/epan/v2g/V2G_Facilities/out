@@ -1,0 +1,98 @@
+ChargingStatus_SWC : MATED STATE
+---------------Handshake Response Start ---------------
+1- File Is read Successfully!!
+2- Message Is Decoded Successfully
+ChargingStatus_SWC : Initialize STATE
+3- Message is Encoded Successfully
+---------------Handshake Response End ---------------
+
+
+---------------Session Setup Response Start ---------------
+1- File Is read Successfully!!
+2- Message Is Decoded Successfully
+3- Message is Encoded Successfully
+---------------Session Setup Response End---------------
+
+
+---------------Service Discovery Response Start ---------------
+1- File Is read Successfully!!
+2- Message Is Decoded Successfully
+3- Message is Encoded Successfully
+---------------Service Discovery Response End ---------------
+
+
+---------------Payment Service Selection Response Start ---------------
+1- File Is read Successfully!!
+2- Message Is Decoded Successfully
+3- Message is Encoded Successfully
+---------------Payment Service Selection Response End ---------------
+
+
+---------------Payment Details Response Start ---------------
+1- File Is read Successfully!!
+2- Message Is Decoded Successfully
+3- Message is Encoded Successfully
+---------------Payment Details Response End ---------------
+
+
+---------------Authorization Response Start ---------------
+1- File Is read Successfully!!
+2- Message Is Decoded Successfully
+3- Message is Encoded Successfully
+---------------Authorization Response End ---------------
+
+
+---------------Charging Parameter Discovery Response Start ---------------
+1- File Is read Successfully!!
+2- Message Is Decoded Successfully
+3- Message is Encoded Successfully
+---------------Charging Parameter Discovery Response End ---------------
+
+
+---------------Cable Check Response Start ---------------
+1- File Is read Successfully!!
+2- Message Is Decoded Successfully
+ChargingStatus_SWC : CableCheck STATE
+3- Message is Encoded Successfully
+---------------Cable Check Response End ---------------
+
+
+---------------PreCharge Response Start ---------------
+1- File Is read Successfully!!
+2- Message Is Decoded Successfully
+ChargingStatus_SWC : Precharge STATE
+3- Message is Encoded Successfully
+---------------PreCharge Response End ---------------
+
+
+---------------Power Delivery Initial Response Start ---------------
+1- File Is read Successfully!!
+2- Message Is Decoded Successfully
+ChargingStatus_SWC : Charging STATE
+3- Message is Encoded Successfully
+---------------Power Deliver Initial Response End ---------------
+
+
+---------------Current Demand Response Start ---------------
+1- File Is read Successfully!!
+2- Message Is Decoded Successfully
+3- Message is Encoded Successfully
+---------------Current Demand Response End ---------------
+
+
+---------------Power Delivery Termination Response Start ---------------
+1- File Is read Successfully!!
+2- Message Is Decoded Successfully
+ChargingStatus_SWC : PowerDown STATE
+3- Message is Encoded Successfully
+---------------Power Delivery Termination Response End ---------------
+
+
+---------------Session Stop Response Start ---------------
+1- File Is read Successfully!!
+2- Message Is Decoded Successfully
+ChargingStatus_SWC : UNMATED STATE
+3- Message is Encoded Successfully
+---------------Session Stop Response Response End ---------------
+
+
